@@ -1,4 +1,6 @@
-﻿@{
+﻿@model IEnumerable<RoyalApartments.Models.Apartments>
+
+@{
     ViewBag.Title = "Home Page";
 }
 
@@ -11,8 +13,21 @@
 </div>
 
 <div class="container">
-    
+
 
 </div>
+<h2>Details</h2>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Location)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+    </tr>
+</table>
 
-    <hr>
+
+<hr>
+<hr>

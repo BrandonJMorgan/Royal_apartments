@@ -34,7 +34,8 @@ namespace RoyalApartments.Controllers
             }
             return View(apartments);
         }
-
+        //Only Logged in users can create new profiles
+        [Authorize]
         // GET: Apartments/Create
         public ActionResult Create()
         {
@@ -59,6 +60,7 @@ namespace RoyalApartments.Controllers
         }
 
         // GET: Apartments/Edit/5
+        [Authorize]
         public ActionResult Edit(string id)
         {
             if (id == null)
@@ -90,6 +92,7 @@ namespace RoyalApartments.Controllers
         }
 
         // GET: Apartments/Delete/5
+        [Authorize]
         public ActionResult Delete(string id)
         {
             if (id == null)

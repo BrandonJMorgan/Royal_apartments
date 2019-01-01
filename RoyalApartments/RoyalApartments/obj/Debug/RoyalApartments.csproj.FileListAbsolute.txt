@@ -136,7 +136,8 @@ C:\Users\brand\Desktop\github\Royal_apartments\RoyalApartments\RoyalApartments\b
 C:\Users\brand\Desktop\github\Royal_apartments\RoyalApartments\RoyalApartments\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\brand\Desktop\github\Royal_apartments\RoyalApartments\RoyalApartments\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\brand\Desktop\github\Royal_apartments\RoyalApartments\RoyalApartments\bin\Microsoft.AI.Web.xml
-C:\Users\brand\Desktop\github\Royal_apartments\RoyalApartments\RoyalApartments\obj\Debug\RoyalApartments.csprojResolveAssemblyReference.cache
 C:\Users\brand\Desktop\github\Royal_apartments\RoyalApartments\RoyalApartments\obj\Debug\RoyalApartments.csproj.CoreCompileInputs.cache
 C:\Users\brand\Desktop\github\Royal_apartments\RoyalApartments\RoyalApartments\obj\Debug\RoyalApartments.dll
 C:\Users\brand\Desktop\github\Royal_apartments\RoyalApartments\RoyalApartments\obj\Debug\RoyalApartments.pdb
+C:\Users\brand\Desktop\github\Royal_apartments\RoyalApartments\RoyalApartments\obj\Debug\RoyalApartments.csprojAssemblyReference.cache
+C:\Users\brand\Desktop\github\Royal_apartments\RoyalApartments\RoyalApartments\obj\Debug\RoyalApartments.csproj.CopyComplete
